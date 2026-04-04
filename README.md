@@ -69,7 +69,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
-  <img src="https://img.icons8.com/?size=64&id=4Z2nCrz5iPY2&format=png" height="40" alt="github logo"  />
+  <img src="https://img.icons8.com/?size=80&id=YSWCDCSF4H3N&format=png" height="40" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
   <img width="12" />
